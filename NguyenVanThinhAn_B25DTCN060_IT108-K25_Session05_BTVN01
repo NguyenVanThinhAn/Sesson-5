@@ -1,3 +1,9 @@
 Lan là hệ thống mạng với quy mô trong nhà, trường học. Với kết nối nội bộ nên tốc độ truyền tải dữ liệu rất cao, nhưng chỉ hoạt động trong phạm vi đó
 Man là hệ thống mạng với quy mô một thành phố. Với các kết nối như camera giám sát, biển quảng cáo, hệ thống quản lý, thành phố thông minh v.v.
-Wan là hệ thống mạng kết nối toàn cầu, chi phí đắt đỏ và tốc độ mạng nhanh
+Wan là hệ thống mạng kết nối toàn cầu, chi phí đắt đỏ và tốc độ mạng nhanh. Như Internet hiện nay
+
+Điểm chung giữa Lan,Man,Wan là chúng đề là hệ thống mạng. Nhưng vẫn có sự khác biệt về tốc độ, giá cả. Cụ thể, để duy trì Lan thương không cần bỏ ra cái giá quá cao nhưng tốc độ truyền dữ liệu thì vẫn rất nhanh. Với Wan thì giá cả sẽ đắt đỏ hơn đồng thời tốc độ mạng sẽ không thể
+nhanh bằng. Còn về Wan, đây là hệ thống rất lớn chính vì vậy để duy trì hệ thống này cũng không hề rẻ. Ngược lại còn rất đắt, tốc độ mạng sẽ tùy thuộc vào nhiều yếu tố như khoảng cách, dây cáp quang v.v.
+
+Một số hình ảnh cụ thể:
+Tổng quan: https://tse2.mm.bing.net/th/id/OIP.Hap7QFBVpeVeRAqZPquslQHaEX?rs=1&pid=ImgDetMain&o=7&rm=3
