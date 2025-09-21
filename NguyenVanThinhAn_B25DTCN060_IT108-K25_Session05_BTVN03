@@ -1,0 +1,17 @@
+HTTP, HTTPS, TCP/IP, FTP, DNS.
+
+HTTP: Dùng để tải giữ giữ liệu từ Server xuống Client?
+ +Ưu điểm: nhẹ do dùng văn bản.
+ +Nhược điểm: Hạn chế do đó người ta thường dùng thêm các ngôn ngữ khác như Java, Kém bảo mật.
+HTTPS: Phiên bản bảo mật của HTTP.
+ +Ưu điểm: Nhẹ,giải quyết được vấn đề bảo mật của HTTP.
+ +Nhược điểm: Hạn chế do đó người ta thường dùng thêm các ngôn ngữ khác như Java.
+TCP/IP: TCP để đảm bảo dữ liệu truyển đi một cách chính xác, bằng cách xác minh và đảm bảo đúng thứ tự. IP có nhiệm vụ như địa chỉ để dữ liệu đến đúng nơi.
+ +Ưu điểm: Độ tin cậy cao, ba bước xác minh, đánh số thứ tự bảo đảm dữ liệu được truyền đúng.
+ +Nhược điểm: Chi phí cao, Overhead, không phù hợp để truyền trực tiếp.
+FTP: Dùng để tải lên và tải xuống các tập tin lớn.
+ +Ưu điểm: Có thể truyền tải các tập tin lớn, truyển tải hàng loạt, quản lý tập tin.
+ +Nhược điểm: Không có mã hoá nên có vấn đề bảo mật,vấn đề tường lửa do FTP được triển khai trên một kênh riêng nên có thể gây nhầm lẫn, không phải là giao thức web dù dùng http/https vẫn có thể dùng được.
+DNS: Để biên dịch các tên miền dễ nhớ thành các tên miền khó nhớ để máy tính hiểu.
+ +Ưu điểm: Tiện lợi và dễ dùng
+ +Nhược điểm: Không mã hoá nên dễ rò rỉ thông tin
