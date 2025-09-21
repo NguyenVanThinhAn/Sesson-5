@@ -1,0 +1,9 @@
+Cách wifi hoạt động trong mạng không dây là phát ra những sóng vô tuyến để truyền dữ liệu. Thiết bị chính là Rounter.
+
+Chuẩn Wi-Fi	Tần số (GHz)	Tốc độ tối đa (lý thuyết)	Đặc điểm nổi bật							
+802.11b	2.4GHz	11 Mbps	Chuẩn Wi-Fi đầu tiên được sử dụng rộng rãi.							
+802.11a	5GHz	54 Mbps	Nhanh hơn b, nhưng hoạt động trên tần số 5 GHz, phạm vi hẹp hơn.							
+802.11g	2.4GHz	54 Mbps	Kết hợp tốc độ của 802.11a với phạm vi của 802.11b, rất phổ biến.							
+802.11n	2.4 & 5GHz	600 Mbps	Wi-Fi 4. Giới thiệu công nghệ MIMO, cho phép sử dụng nhiều ăng-ten để tăng tốc độ và vùng phủ sóng.							
+802.11ac	5GHz	1.3 Gbps	Wi-Fi 5. Hoạt động độc quyền trên băng tần 5 GHz và giới thiệu MU-MIMO, giúp router giao tiếp với nhiều thiết bị cùng lúc.							
+802.11ax	2.4 & 5GHz	9.6 Gbps	Wi-Fi 6. Sử dụng công nghệ OFDMA để phục vụ nhiều thiết bị đồng thời, cải thiện hiệu suất trong các môi trường đông đúc.							
