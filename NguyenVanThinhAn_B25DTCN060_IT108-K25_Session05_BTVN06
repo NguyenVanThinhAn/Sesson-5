@@ -1,0 +1,12 @@
+Một máy chủ và 5 máy tính:
+
+Máy chủ sẽ được đặt ở phòng khác và tản nhiệt và tuyệt đối không ẩm thấp
+
+5 máy tính sẽ được đặt trong một căn phòng, một máy ở giữa. tiếp đó là 4 máy được xếp trong 4 cái bán chụm vào nhau.
+Để đảm bảo tính bảo mật sẽ dùng dây để truyền dữ liệu cũng như tối ưu tốc độ
+có hỗ trợ cả mạng không dây nhưng sẽ dùng nếu thực sự cần thiết.
+máy in và máy photocopy sẽ được kết nối qua mạng không dây.
+
+Cụ thể:
+Server sẽ dùng để truyền dữ liệu đồng thời đảm bảo tính đồng bộ và có thể kiểm tra cũng như fix dữ liệu nội bộ. Đảm bảo tính đồng nhất như tất cả máy update cùng lúc. Sao lưu dữ liệu quan trọng tránh mất điện.
+Switch và LAN wifi sẽ được dùng để kết nối với máy in và máy photo
