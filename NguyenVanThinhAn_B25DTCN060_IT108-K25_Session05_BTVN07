@@ -1,0 +1,16 @@
+               [Internet]
+                   │
+                (Cáp quang)
+                   │
+               [ Modem ]
+                   │ (Cáp Ethernet)
+                   │
+               [ Router ]
+              /    |     \
+      (Ethernet) (WiFi)  (Ethernet)
+           │        │        │
+        [Switch]  Máy tính   Máy tính (Laptop)
+       /   |   \
+(Ethernet) |   (Ethernet)
+    │      |       │
+ Máy tính  Máy in   Máy tính
